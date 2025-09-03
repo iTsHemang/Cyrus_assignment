@@ -25,6 +25,6 @@ Challenges:
  - One of the trickiest parts was to load and fetch data from a JSON file. And as suggested, I took help from the internet.
  - The other tricky part was detecting a collision. Because the  box does not have physics, the projectile was not detecting the collision with the box. But it was a simple fix.
 
-To test the feature, just play it on the editor. The player character will be equipped with a rifle, and the first box will spawn automatically. Mouse left click to fire as soon as the box is destroyed, another will spawn, and the score will update.
+To test the feature, just play it on the editor. The player character will be equipped with a rifle, and the first box will spawn automatically. Mouse left click to fire. As soon as the box is destroyed, another will spawn, and the score will update.
 
 Here's the YouTube link to the video showcasing my final project: https://youtu.be/5pNZSaQ_pDU
