@@ -1,0 +1,14 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE stuff you don’t need to send
+.vscode/
+.vs/
+*.VC.db
+
+# Rider/IntelliJ
+.idea/
+*.iml
