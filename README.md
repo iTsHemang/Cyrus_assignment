@@ -11,7 +11,7 @@ Box:
   -If health reaches zero, it destroys itself and notifies the UI with its score and type 
 
 Player Character: 
-  -On fire input (mouse left click) spawns a projectile at the rifle’s muzzle location. 
+  - On fire input (mouse left click) spawns a projectile at the rifle’s muzzle location. 
 
 Projectile: 
   -Uses Unreal's projectile system to travel.
